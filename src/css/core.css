@@ -1,0 +1,22 @@
+[class*=root]:has([src*="banners/872021270135439381"]),
+[class*=theme-light]:has([src*="banners/872021270135439381"]),
+[class*=theme-dark]:has([src*="banners/872021270135439381"]),
+[class*=theme-amoled]:has([src*="banners/872021270135439381"]) {
+    --background-primary: rgba(0, 0, 0, 0.100);
+    --background-secondary: rgba(0, 0, 0, 0.100);
+    --background-secondary-alt: rgba(0, 0, 0, 0.100); 
+    --background-tertiary: rgba(0, 0, 0, 0.100);
+    --background-accent: rgba(39, 18, 18, 0.100);
+    --background-floating: rgba(39, 18, 18, 0.100);
+    --background-modifier-rgb: rgba(39, 18, 18, 0.100);
+    --background-modifier-hover: rgba(39, 18, 18, 0.100);
+    --background-modifier-active: rgba(39, 18, 18, 0.100);
+    --background-modifier-selected: rgba(39, 18, 18, 0.100);
+    --background-modifier-accent: rgba(39, 18, 18, 0.100);
+    --channels-default: white;
+    --channeltextarea-background: rgba(39, 18, 18, 0.100);
+    --searcharea-background: rgba(39, 18, 18, 0.100);
+    --input-background: rgba(39, 18, 18, 0.100);
+    --scroller-thumb: rgba(39, 18, 18, 0.100);
+    --scroller-track: rgba(39, 18, 18, 0.100);
+}
